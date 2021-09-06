@@ -4,7 +4,7 @@ This project was built to demo how to use a GraphQL API with Serverless Function
 
 ## Start the project
 
-✅ Register (if needed) and Sign In to Astra [https://astra.datastax.com](https://dtsx.io/workshop): You can use your `Github`, `Google` accounts or register with an `email`.
+✅ Register (if needed) and Sign In to Astra [https://astra.datastax.com](https://astra.datastax.com): You can use your `Github`, `Google` accounts or register with an `email`.
 
 ✅ Create an ASTRA_TOKEN and add data to your project as per the tutorial.
 
