@@ -20,7 +20,7 @@ ASTRA_TOKEN={ your_token }
 npm install
 ```
 
-👩‍💻 Inject all the secret variables and runthe project using
+👩‍💻 Inject all the secret variables and run the project using
 
 ```bash
 netlify dev
